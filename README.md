@@ -2,6 +2,11 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-2h7hzv)
 
+In this lesson, engineers will
+
+- build a counter component using plain JavaScript
+- identify what is difficult about developing with plain JavaScript
+
 ## Counter component
 
 ### YOUR TURN
