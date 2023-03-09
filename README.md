@@ -2,6 +2,8 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-2h7hzv)
 
+A lesson for the [Code Next](https://codenext.withgoogle.com/) React club.
+
 In this lesson, engineers will
 
 - build a counter component using plain JavaScript
